@@ -26,13 +26,13 @@ The portfolio includes the following sections:
 
 ## 🚀 Deployment
 The project is hosted live at:  
-👉 [View Portfolio](https://yourusername.github.io/Portfolio-Site/)  
+👉 [View Portfolio]([https://yourusername.github.io/Portfolio-Site/](https://normanwachira.github.io/norman-portfolio/))  
 
 ## 📷 Screenshots
 _Add screenshots of your site here once deployed_  
 
 ## 📬 Contact
-- **Email:** your.email@example.com  
+- **Email:** wilsonnorman615@gmail.com  
 - **LinkedIn:** [Norman Wachira](https://www.linkedin.com/in/norman-wachira/)  
 - **GitHub:** [NormanWachira](https://github.com/NormanWachira)  
 
