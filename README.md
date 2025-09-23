@@ -26,7 +26,7 @@ The portfolio includes the following sections:
 
 ## 🚀 Deployment
 The project is hosted live at:  
-👉 [View Portfolio]([https://yourusername.github.io/Portfolio-Site/](https://normanwachira.github.io/norman-portfolio/))  
+👉 [View Portfolio](https://normanwachira.github.io/norman-portfolio/)
 
 ## 📷 Screenshots
 _Add screenshots of your site here once deployed_  
