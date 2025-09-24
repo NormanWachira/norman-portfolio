@@ -5,6 +5,7 @@
     box-sizing: border-box;
 }
 
+
 /* Apply a clean font and base colors */
 body {
     font-family: Arial, sans-serif;
@@ -39,7 +40,7 @@ nav a:hover {
 /* Hero Section */
 .hero {
     text-align: center;
-    padding: 12.26rem 1rem;
+    padding: 18rem 1rem;
     background: linear-gradient(120deg, #00adb5, #393e46);
     color: white;
 }
@@ -82,7 +83,7 @@ footer {
 /* ABOUT PAGE */
 .about {
     max-height: 100%;
-    padding: 11.15rem 1rem;
+    padding: 17rem 1rem;
     background: linear-gradient(120deg, #00adb5, #7aaafd);
 }
 
